@@ -36,6 +36,7 @@ def test():
               % (s,s_numpy)
         assert abs(s - s_numpy)<1e-14,\
                "Disagree for x = %20.15e" % x
+
 if __name__ == "__main__":
     print "Running test."
     test()
