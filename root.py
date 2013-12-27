@@ -3,6 +3,7 @@
 # author  : eclipse
 # email   : adooadoo@163.com
 
+
 def root(x,debug = False,iterMax = 100):
     """
     root for none-negative number
