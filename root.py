@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # author  : eclipse
 # email   : adooadoo@163.com
-# demo you haha
+
 
 def root(x,debug = False,iterMax = 100):
     """
